@@ -1,0 +1,21 @@
+{
+  "model": "veo-2.0",
+  "prompts": [
+    {
+      "id": "hero_video_loop",
+      "prompt": "Ultra-wide, slow cinematic tracking shot, 8k resolution, photorealistic. A monolithic basalt architectural structure emerging from a serene, misty alpine valley at dawn. Volumetric lighting piercing through dense, soft fog. Hyper-detailed textures on the dark stone, dew on sparse, dark green moss. Still, dark reflecting pool in the foreground. The camera glides smoothly and flawlessly forward. Shot on ARRI Alexa 65, Panavision Ultra 70 lenses. Moody, ethereal brutalism, quiet luxury, massive budget.",
+      "parameters": {
+        "aspect_ratio": "16:9",
+        "loop": true
+      }
+    },
+    {
+      "id": "b_roll_detail",
+      "prompt": "Close-up, shallow depth of field, macro cinematography. Soft, diffused daylight hitting a polished obsidian surface engraved with minimal silver typography. Dust motes dancing in a single shaft of warm light. Slow tilt up. Arri Alexa 65, pristine focus, photorealistic, cinematic.",
+      "parameters": {
+        "aspect_ratio": "16:9",
+        "loop": false
+      }
+    }
+  ]
+}
