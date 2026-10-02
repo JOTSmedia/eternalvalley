@@ -1,0 +1,37 @@
+{
+  "name": "eternal-valley",
+  "version": "1.0.0",
+  "description": "A social memorial network where **the whole real Earth is the cemetery**. Families place photorealistic memorials anywhere on the planet \u2014 their actual backyard, the beach where she chased the tide, the trail you walked every morning \u2014 using Google's Photorealistic 3D Maps (the Google Earth engine) with a keyless satellite fallback.",
+  "main": "check_live.js",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "allowScripts": {
+    "puppeteer@25.9.0": true
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-plugin-html": "^8.2.0",
+    "puppeteer": "^25.9.0",
+    "esbuild": "0.25.12",
+    "jsdom": "26.1.0",
+    "@napi-rs/canvas": "0.1.80"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jotsmedia/eternalvalley.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jotsmedia/eternalvalley/issues"
+  },
+  "homepage": "https://github.com/jotsmedia/eternalvalley#readme",
+  "dependencies": {
+    "three": "0.170.0"
+  }
+}
