@@ -1,0 +1,20 @@
+ETERNAL VALLEY — COMPLETE READY WEBSITE
+
+This is the ready website, with no source-code alternative or partial patch.
+
+1. Extract this entire ZIP into a NEW folder.
+2. In Terminal, cd into that folder and run:
+   python3 -m http.server 8080
+3. Open http://localhost:8080/index.html (not file://).
+4. To publish, copy ALL extracted files/folders into your eternalvalley repository root, replacing the website files. Keep index.html, assets, images, css and js together. Include .nojekyll. Upload/commit every file, not only index.html.
+5. After deployment finishes, hard-refresh with Command+Shift+R.
+
+If port8080 is in use, stop your previous server or choose8081 and use that same port in the browser.
+
+The photographic rainbow is embedded in index.html. The compiled application uses local bundled Three.js and matching compiled dependencies. Every original static page, image, required source module used by other pages, and the optimized promotional video are included. This package includes the terrain, loader, returning-account and unified-world repairs.
+
+The previous live deployment pointed to js/main.js?v=26 but lacked many mandatory modules, including config.js, catalog.js, state.js and theme.js. Missing imports prevented all boot code and navigation from running. That was an incomplete/mixed installation; the previous patch/source packaging did not prevent it.
+
+This complete package was checked after ZIP extraction: all bundled imports resolve, the entry is compiled, all formerly missing modules exist, the terrain worker exists, and the embedded rainbow image is present.26 automated tests pass. Full WebGL2 visual quality and FPS remain unverified in this environment.
+
+This is a distribution for preview/publishing. No npm build is necessary. Keep a separate source checkout for future development.

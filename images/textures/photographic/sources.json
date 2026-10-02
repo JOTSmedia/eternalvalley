@@ -1,0 +1,245 @@
+{
+  "providers": [
+    "Poly Haven",
+    "ambientCG"
+  ],
+  "resolution": "Original 2K downloads; no upscaling",
+  "processing": "JPEG recompression only; unchanged image dimensions",
+  "total_bytes": 15362428,
+  "maps": [
+    {
+      "filename": "rock_diff.jpg",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_rocks_02/aerial_rocks_02_diff_2k.jpg",
+      "source_md5": "f493fa9b31911f8a30ecd1d41cbc6f3d",
+      "sha256": "b5c870b7e9cf19ceb353ec9b6c9e9eff2a8aeaff306d6506aed15138388d9771",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "bytes": 1185911,
+      "asset_url": "https://polyhaven.com/a/aerial_rocks_02",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "normal_convention": null,
+      "physical_width_m": 50,
+      "author": "Rob Tuytel",
+      "provider": "Poly Haven",
+      "technique": "Photoscanned"
+    },
+    {
+      "filename": "rock_nor.jpg",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_rocks_02/aerial_rocks_02_nor_gl_2k.jpg",
+      "source_md5": "7c405cfd3308a2672c99b44e102c328e",
+      "sha256": "ec28334843c92a0328b42f202aac2daf0493f5dab3afef5d09d2037b3841029c",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "bytes": 1543217,
+      "asset_url": "https://polyhaven.com/a/aerial_rocks_02",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "normal_convention": "OpenGL +Y",
+      "physical_width_m": 50,
+      "author": "Rob Tuytel",
+      "provider": "Poly Haven",
+      "technique": "Photoscanned"
+    },
+    {
+      "filename": "rock_rough.jpg",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/aerial_rocks_02/aerial_rocks_02_rough_2k.jpg",
+      "source_md5": "2d4464ceba47763b2ae75242e6f66270",
+      "sha256": "160da9e5b4b6e275e1ba16a46b1c37e97417a8b9a9f5399b8da91c435afde374",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "bytes": 741988,
+      "asset_url": "https://polyhaven.com/a/aerial_rocks_02",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "normal_convention": null,
+      "physical_width_m": 50,
+      "author": "Rob Tuytel",
+      "provider": "Poly Haven",
+      "technique": "Photoscanned"
+    },
+    {
+      "filename": "sand_diff.jpg",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/coast_sand_01/coast_sand_01_diff_2k.jpg",
+      "source_md5": "bde59bb3bcdd8d4e9d6fcadc19f038fa",
+      "sha256": "8b1145aa51e03ca11de39fb038a930260e63cc2b1f9ff635c73574e0114e0878",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "bytes": 1028754,
+      "asset_url": "https://polyhaven.com/a/coast_sand_01",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "normal_convention": null,
+      "physical_width_m": 15,
+      "author": "Rob Tuytel",
+      "provider": "Poly Haven",
+      "technique": "Photoscanned"
+    },
+    {
+      "filename": "sand_nor.jpg",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/coast_sand_01/coast_sand_01_nor_gl_2k.jpg",
+      "source_md5": "2a9d793676562b38b5760b9147aa40ea",
+      "sha256": "b1fc21dd0a346e7729cb99ba92d77c8db9e5a610d0a1e7977b848fbb0ee09b86",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "bytes": 1558577,
+      "asset_url": "https://polyhaven.com/a/coast_sand_01",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "normal_convention": "OpenGL +Y",
+      "physical_width_m": 15,
+      "author": "Rob Tuytel",
+      "provider": "Poly Haven",
+      "technique": "Photoscanned"
+    },
+    {
+      "filename": "sand_rough.jpg",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/coast_sand_01/coast_sand_01_rough_2k.jpg",
+      "source_md5": "66e3bcd9f7158cd8919487afb51eabf2",
+      "sha256": "cf60a2215555562214ab0e3994f8f23e3bf095121af99a441893d0a1430fa37c",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "bytes": 247310,
+      "asset_url": "https://polyhaven.com/a/coast_sand_01",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "normal_convention": null,
+      "physical_width_m": 15,
+      "author": "Rob Tuytel",
+      "provider": "Poly Haven",
+      "technique": "Photoscanned"
+    },
+    {
+      "filename": "leaf_diff.jpg",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/leafy_grass/leafy_grass_diff_2k.jpg",
+      "source_md5": "8014f4dace676a62ed71b3dd76119dae",
+      "sha256": "12879adf72a79d17929c153d6f869cc7ecd902ddd0aee7c57d35648e69fcccf3",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "bytes": 1236512,
+      "physical_width_m": 2,
+      "author": "Charlotte Baglioni",
+      "asset_url": "https://polyhaven.com/a/leafy_grass",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "normal_convention": null,
+      "provider": "Poly Haven",
+      "technique": "Photoscanned"
+    },
+    {
+      "filename": "leaf_nor.jpg",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/leafy_grass/leafy_grass_nor_gl_2k.jpg",
+      "source_md5": "ea5e91abe01dc5e5d7028c68c3bc9194",
+      "sha256": "77ef90b28036716aa7475d73216aae9e20c3a3ec994408de51138a36062fe18a",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "bytes": 2385050,
+      "physical_width_m": 2,
+      "author": "Charlotte Baglioni",
+      "asset_url": "https://polyhaven.com/a/leafy_grass",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "normal_convention": "OpenGL +Y",
+      "provider": "Poly Haven",
+      "technique": "Photoscanned"
+    },
+    {
+      "filename": "leaf_rough.jpg",
+      "source_url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/leafy_grass/leafy_grass_rough_2k.jpg",
+      "source_md5": "b5c551ed91162aab5afbfb03b73ae3f5",
+      "sha256": "431ed513f70c71ac32722d18fc49fd53fd8d53359d315fd088834bc031d298da",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "bytes": 480041,
+      "physical_width_m": 2,
+      "author": "Charlotte Baglioni",
+      "asset_url": "https://polyhaven.com/a/leafy_grass",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "normal_convention": null,
+      "provider": "Poly Haven",
+      "technique": "Photoscanned"
+    },
+    {
+      "provider": "ambientCG",
+      "technique": "Procedural PBR; not a photoscan",
+      "source_url": "https://ambientcg.com/get?file=Grass004_2K-JPG.zip",
+      "archive_member": "Grass004_2K-JPG_Color.jpg",
+      "source_sha256": "735b141c8f1972e70a45879424f1238fea9f887324173097785f4ac36e67e9a3",
+      "archive_sha256": "d7d3f08e8bb1e59aed0c3dbb85ea0b46d5308481f89b6a3fd62c0ec9e862245b",
+      "asset_url": "https://ambientcg.com/view?id=Grass004",
+      "physical_width_m": 1.4,
+      "author": "Lennart Demes",
+      "license": "CC0-1.0",
+      "license_url": "https://docs.ambientcg.com/license/",
+      "filename": "grass_diff.jpg",
+      "sha256": "d304ab6fc740ef22134ae4a04fe5967f39c85187e29e618bbbf220b1e2ef05f0",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "bytes": 1225060,
+      "normal_convention": null
+    },
+    {
+      "provider": "ambientCG",
+      "technique": "Procedural PBR; not a photoscan",
+      "source_url": "https://ambientcg.com/get?file=Grass004_2K-JPG.zip",
+      "archive_member": "Grass004_2K-JPG_NormalGL.jpg",
+      "source_sha256": "15ccad231764049d6581a52076d02bb6b627df77895cb0508e4017d8a4877fef",
+      "archive_sha256": "d7d3f08e8bb1e59aed0c3dbb85ea0b46d5308481f89b6a3fd62c0ec9e862245b",
+      "asset_url": "https://ambientcg.com/view?id=Grass004",
+      "physical_width_m": 1.4,
+      "author": "Lennart Demes",
+      "license": "CC0-1.0",
+      "license_url": "https://docs.ambientcg.com/license/",
+      "filename": "grass_nor.jpg",
+      "sha256": "9978a55c789d5233ee98559cba9136c2078db259e5d89666b94a7eb6e8af4f84",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "bytes": 2314016,
+      "normal_convention": "OpenGL +Y"
+    },
+    {
+      "provider": "ambientCG",
+      "technique": "Procedural PBR; not a photoscan",
+      "source_url": "https://ambientcg.com/get?file=Grass004_2K-JPG.zip",
+      "archive_member": "Grass004_2K-JPG_Roughness.jpg",
+      "source_sha256": "c449fdf1e779eb7be5a19c1d58ee28cc155ed0523a141b151f3cbc843c4ae2e3",
+      "archive_sha256": "d7d3f08e8bb1e59aed0c3dbb85ea0b46d5308481f89b6a3fd62c0ec9e862245b",
+      "asset_url": "https://ambientcg.com/view?id=Grass004",
+      "physical_width_m": 1.4,
+      "author": "Lennart Demes",
+      "license": "CC0-1.0",
+      "license_url": "https://docs.ambientcg.com/license/",
+      "filename": "grass_rough.jpg",
+      "sha256": "03085a11090e7f34966ed0ae4725dc16bee58f18f3742dc91c8451ca055f1820",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "bytes": 1415992,
+      "normal_convention": null
+    }
+  ]
+}
